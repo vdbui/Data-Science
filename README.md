@@ -1,3 +1,3 @@
 # Data-Science
-Machine Learning
-Covid-19 Data Analysis
+1. Machine Learning
+2. Covid-19 Data Analysis
